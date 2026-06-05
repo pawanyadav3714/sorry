@@ -95,7 +95,7 @@ yes.addEventListener("click", function handleYES(){
     aud1.pause();
     aud2.pause();
     h1.innerHTML = "<h1>Thanku Dhani..🥰</h1>";
-    h3.innerHTML = "<p>Abse kharcha mere side se hoga.. Lekin paisa khtm ho gya 🥺</p>";
+    h3.innerHTML = "<p>kharcha mere side se hoga.. Lekin paisa khtm ho gya 🥺</p>";
         sticker.src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRxMnhnaG0wem9qZWczd25ycGNodHV0NzdtdGx1dnJsOW1nMXgxeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/67KsrjDg2bUWI5uyvB/200w.webp";
         yes.innerHTML = "✔️";
     sticker,yes.animate([
