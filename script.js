@@ -55,8 +55,8 @@ no.addEventListener("click", function handleNO(){
     aud1.pause();
     aud2.play();
     aud2.volume = 0.2;
-        h1.innerHTML = "<p>waise v ab mai chla jaaunga na ! bs kuch din aur aapke town me🥺 </p>";
-        h3.innerHTML = "<p>To abse no faaltu baat.only pdhai and friendship.</p>"
+        h1.innerHTML = "<p>waise v ab mai chla jaaunga na Dhani! bs kuch din aur aapke town me🥺 </p>";
+        h3.innerHTML = "<p>To abse no faaltu baat.only pdhai and friendship chal aao jldi se??.</p>"
 
         sticker.src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3N2R6eXpmcXh4cTJrbzkxa2R2bmt5Y3psanVheWt2ZHZ6aXg4ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pwK1G8lOU72ZorlkgL/200w.webp";
     sticker.animate([
@@ -75,7 +75,7 @@ no.addEventListener("click", function handleNO(){
     aud3.play();
     aud2.pause();
         h1.innerHTML = "<p>ab maan v jao na Dhani??🥺 please </p>";
-        h3.innerHTML = "<p>ab kitna code krwaogi??🥺</p>";
+        h3.innerHTML = "<p>ab kitna code krwaogi mere se??🥺</p>";
     
     sticker.src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3N2R6eXpmcXh4cTJrbzkxa2R2bmt5Y3psanVheWt2ZHZ6aXg4ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fUey3PrttFs6HJ6tHU/200w.webp";
     sticker.animate([
