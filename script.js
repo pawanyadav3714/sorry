@@ -36,8 +36,8 @@ no.addEventListener("click", function handleNO(){
         no.innerHTML = `
     <h2 style = "color:black;font-size: 10px;">no!</h2>`
     aud1.play();
-        h1.innerHTML = "Sorry dii ab maaf v krdo n please🥺";
-    h3.innerHTML = "ab se no badmasi🥺promiss👍 only pdhai";
+        h1.innerHTML = "Hii Kaisi ho dhani Aap??";
+    h3.innerHTML = "Aaj nadi taraf aa skte ho kya??";
         
      sticker.src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJnNGJvYXlydHpqNWJvazVrdnM0NjQ2MXg4Ym12aXFpdW9memFkdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IxmmhNo2MI8r9PrgE3/200.webp";
     sticker.animate([
@@ -55,8 +55,8 @@ no.addEventListener("click", function handleNO(){
     aud1.pause();
     aud2.play();
     aud2.volume = 0.2;
-        h1.innerHTML = "<p>waise v april-attmpt ke baad Aap chli jaaogi na??🥺 </p>";
-        h3.innerHTML = "<p>To abse no faaltu baat.only pdhai.</p>"
+        h1.innerHTML = "<p>waise v ab mai chla jaaunga na ! bs kuch din aur aapke town me🥺 </p>";
+        h3.innerHTML = "<p>To abse no faaltu baat.only pdhai and friendship.</p>"
 
         sticker.src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3N2R6eXpmcXh4cTJrbzkxa2R2bmt5Y3psanVheWt2ZHZ6aXg4ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/pwK1G8lOU72ZorlkgL/200w.webp";
     sticker.animate([
@@ -74,7 +74,7 @@ no.addEventListener("click", function handleNO(){
     <h2 style = "color:black;font-size: 5px;">no!</h2>`
     aud3.play();
     aud2.pause();
-        h1.innerHTML = "<p>ab maan v jao na dii??🥺 please</p>";
+        h1.innerHTML = "<p>ab maan v jao na Dhani??🥺 please </p>";
         h3.innerHTML = "<p>ab kitna code krwaogi??🥺</p>";
     
     sticker.src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk3N2R6eXpmcXh4cTJrbzkxa2R2bmt5Y3psanVheWt2ZHZ6aXg4ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/fUey3PrttFs6HJ6tHU/200w.webp";
@@ -94,8 +94,8 @@ yes.addEventListener("click", function handleYES(){
     aud3.pause();
     aud1.pause();
     aud2.pause();
-    h1.innerHTML = "<h1>Thanku KB🥰</h1>";
-    h3.innerHTML = "<p>Unblock krdo dii wtsp pe💕Now we are jst official frnd??</p>";
+    h1.innerHTML = "<h1>Thanku Dhani..🥰</h1>";
+    h3.innerHTML = "<p>Abse na proper response krna whatsapp pe..</p>";
         sticker.src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRxMnhnaG0wem9qZWczd25ycGNodHV0NzdtdGx1dnJsOW1nMXgxeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/67KsrjDg2bUWI5uyvB/200w.webp";
         yes.innerHTML = "✔️";
     sticker,yes.animate([
