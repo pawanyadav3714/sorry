@@ -37,7 +37,7 @@ no.addEventListener("click", function handleNO(){
     <h2 style = "color:black;font-size: 10px;">no!</h2>`
     aud1.play();
         h1.innerHTML = "Hii Kaisi ho dhani Aap??";
-    h3.innerHTML = "Aaj nadi taraf aa skte ho kya??";
+    h3.innerHTML = "Aaj nadi taraf aa skte ho kya???";
         
      sticker.src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJnNGJvYXlydHpqNWJvazVrdnM0NjQ2MXg4Ym12aXFpdW9memFkdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IxmmhNo2MI8r9PrgE3/200.webp";
     sticker.animate([
