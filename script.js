@@ -32,7 +32,7 @@ no.addEventListener("click", function handleNO(){
     no.style.fontSize = size + "px"
 
     noCount++;
-    if (noCount == 1){
+    if (noCount == 2){
         no.innerHTML = `
     <h2 style = "color:black;font-size: 10px;">no!</h2>`
     aud1.play();
@@ -49,7 +49,7 @@ no.addEventListener("click", function handleNO(){
 
 })
 }
-    else if (noCount == 2){
+    else if (noCount == 3){
         no.innerHTML = `
     <h2 style = "color:black;font-size: 8px;">no!</h2>`
     aud1.pause();
@@ -69,7 +69,7 @@ no.addEventListener("click", function handleNO(){
 })
 
     }
-    else if (noCount == 3){
+    else if (noCount == 4){
         no.innerHTML = `
     <h2 style = "color:black;font-size: 5px;">no!</h2>`
     aud3.play();
