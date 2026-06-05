@@ -36,8 +36,8 @@ no.addEventListener("click", function handleNO(){
         no.innerHTML = `
     <h2 style = "color:black;font-size: 10px;">no!</h2>`
     aud1.play();
-        h1.innerHTML = "Hii Kaisi ho dhani Aap??";
-    h3.innerHTML = "Aaj nadi taraf aa skte ho kya???";
+        h1.innerHTML = "Aaj ek last bari aa jao na🥺🥺 ";
+    h3.innerHTML = "ab se kavi ni bulaaenge pkka???🥲🥹";
         
      sticker.src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJnNGJvYXlydHpqNWJvazVrdnM0NjQ2MXg4Ym12aXFpdW9memFkdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IxmmhNo2MI8r9PrgE3/200.webp";
     sticker.animate([
@@ -95,7 +95,7 @@ yes.addEventListener("click", function handleYES(){
     aud1.pause();
     aud2.pause();
     h1.innerHTML = "<h1>Thanku Dhani..🥰</h1>";
-    h3.innerHTML = "<p>Abse na proper response krna whatsapp pe..</p>";
+    h3.innerHTML = "<p>Abse kharcha mere side se hoga.. Lekin paisa khtm ho gya 🥺</p>";
         sticker.src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRxMnhnaG0wem9qZWczd25ycGNodHV0NzdtdGx1dnJsOW1nMXgxeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/67KsrjDg2bUWI5uyvB/200w.webp";
         yes.innerHTML = "✔️";
     sticker,yes.animate([
